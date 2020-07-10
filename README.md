@@ -6,7 +6,7 @@
 
 # Dataquest.io - Data Analysis Projects
 
-This repository contains different deep learning project notebooks that were run using the fastai framework. 
+This repository contains different data analysis solutions to challenges issued by [Dataquest.io](https://www.dataquest.io/). 
 
 ## Structure
 
@@ -38,7 +38,7 @@ Contributions are what make the open source community a great place to learn, in
 
 ## Reporting Issues
 
-Does something seem off? Make sure to [report it](https://github.com/luca-martial/fastai-projects/issues).
+Does something seem off? Make sure to [report it](https://github.com/luca-martial/DQ-projects/issues).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
